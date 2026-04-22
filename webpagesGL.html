@@ -13,7 +13,7 @@
         <title>About Alex Ryden</title>
         <link href="webpagesGL.css" rel="stylesheet" type="text/css" />
     </head>
-    <body>
+    <body style="background-color: #008473;">
         <!--Here is our welcome message-->
         <header>
            <h2>Welcome to my about me page!</h2> 
@@ -21,14 +21,21 @@
 
         <hr />
 
-        <!--A photo I like-->
-        <img src="IMG_6537.jpeg" alt="A photo of my horse" />
+        <!--A photo I like, styled by our CSS stylesheet-->
+        <img src="IMG_6537.jpeg" alt="A photo of my horse" id="photo-resize" />
 
-    <p>In the evenings I like to walk my dog over to Centenial Campus and let him run around on the field.</p>    
+        <!--A paragraph about my favorite spot on campus.-->
+    <p>My favorite spot on Campus is the field in between the <em>Engineering buildings</em>. In the evenings I like to walk my dog over to <strong>Centenial Campus</strong> and let him run around on the field.</p>   
+    
+        <!-- this paragraph is demonstrating some more styling tags in HTML.-->
+    <p>
+        C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub> is my favorite <del>element</del> <ins>chemical</ins>formula. E = mc<sup>2</sup> is my favorite equation.
+    </p>
 
     <br />
     <br />
     
+    <!-- this is an unordered list-->
     <h4>A list of my favorite things:</h4>
     <ul>
         <li>Horses</li>
@@ -39,16 +46,16 @@
     
     <br />
 
-    <table>
+    <!-- this is a table styled by our CSS stylesheet-->
+    <table class="table-border">
         <tr><th>Name</th><th>Characteristics</th></tr>
         <tr><td>Ilona Maher</td><td>Authentic and confident</td></tr>
         <tr><td>Simone Biles</td><td>Resilient and determined</td></tr>
         <tr><td>Michael Phelps</td><td>Disciplined and focused</td></tr>
     </table>
 
+    <!-- this is a link to the Moodle website -->
     <a href="https://wolfware.ncsu.edu" target="blank">Moodle</a>
-
-
 
 
     </body>
