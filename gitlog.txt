@@ -1,0 +1,41 @@
+commit 834710594da3eb5dffb74e20274032e0c4b09672
+Author: Alex Ryden <agryden@ncsu.edu>
+Date:   Wed Apr 22 17:33:39 2026 -0400
+
+    commit log
+
+commit 1e5e87bad36f8ed24c6a050eac9647a7bc5efc55
+Author: Alex Ryden <agryden@ncsu.edu>
+Date:   Wed Apr 22 17:29:16 2026 -0400
+
+    CSS styling
+
+commit c0a205cc0c6e55c50b4072755e90b962a51c563c
+Author: Alex Ryden <agryden@ncsu.edu>
+Date:   Wed Apr 22 17:09:26 2026 -0400
+
+    edit html
+
+commit 61641b907973180408f4d7db40eeb83eab2c4d0b
+Author: Alex Ryden <agryden@ncsu.edu>
+Date:   Wed Apr 22 13:57:45 2026 -0400
+
+    Edit
+
+commit 47b8c6ca26b377ee13c0d28d4a58a7a2b4676e6e
+Author: Alex Ryden <agryden@ncsu.edu>
+Date:   Wed Apr 22 13:38:26 2026 -0400
+
+    MESSAGE
+
+commit afc5bbc9638e740b7e2ec5a638b1aa58745d6d23
+Author: AlexZella <alex@rydenfamily.org>
+Date:   Wed Apr 22 13:34:57 2026 -0400
+
+    Create trial.html
+
+commit 67d6fc011a64fd0639f809337f0e4856075f89e5
+Author: AlexZella <alex@rydenfamily.org>
+Date:   Wed Apr 22 13:06:21 2026 -0400
+
+    Initial commit
